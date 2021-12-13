@@ -1,0 +1,10 @@
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\bin\Debug\netcoreapp3.1\StockIntegration.Entity.deps.json
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\bin\Debug\netcoreapp3.1\StockIntegration.Entity.dll
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\bin\Debug\netcoreapp3.1\StockIntegration.Entity.pdb
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.AssemblyInfoInputs.cache
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.AssemblyInfo.cs
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.dll
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.pdb
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Entity\obj\Debug\netcoreapp3.1\StockIntegration.Entity.csproj.AssemblyReference.cache

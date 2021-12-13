@@ -1,0 +1,15 @@
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.Business.deps.json
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.Business.dll
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.Business.pdb
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.DataAccess.dll
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.Entity.dll
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.DataAccess.pdb
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\bin\Debug\netcoreapp3.1\StockIntegration.Entity.pdb
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.csproj.AssemblyReference.cache
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.AssemblyInfoInputs.cache
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.AssemblyInfo.cs
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.csproj.CoreCompileInputs.cache
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.csproj.CopyComplete
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.dll
+C:\Users\hilmiye.adabasi\source\repos\StockIntegration\StockIntegration.Business\obj\Debug\netcoreapp3.1\StockIntegration.Business.pdb

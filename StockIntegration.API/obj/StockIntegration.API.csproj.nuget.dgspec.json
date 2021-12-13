@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.API\\StockIntegration.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.API\\StockIntegration.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.API\\StockIntegration.API.csproj",
+        "projectName": "StockIntegration.API",
+        "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.API\\StockIntegration.API.csproj",
+        "packagesPath": "C:\\Users\\hilmiye.adabasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hilmiye.adabasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://package.medyasoftdigital.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Business\\StockIntegration.Business.csproj": {
+                "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Business\\StockIntegration.Business.csproj"
+              },
+              "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj": {
+                "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.15.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Business\\StockIntegration.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Business\\StockIntegration.Business.csproj",
+        "projectName": "StockIntegration.Business",
+        "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Business\\StockIntegration.Business.csproj",
+        "packagesPath": "C:\\Users\\hilmiye.adabasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hilmiye.adabasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://package.medyasoftdigital.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.DataAccess\\StockIntegration.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.DataAccess\\StockIntegration.DataAccess.csproj"
+              },
+              "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj": {
+                "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.DataAccess\\StockIntegration.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.DataAccess\\StockIntegration.DataAccess.csproj",
+        "projectName": "StockIntegration.DataAccess",
+        "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.DataAccess\\StockIntegration.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hilmiye.adabasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hilmiye.adabasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://package.medyasoftdigital.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj": {
+                "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj",
+        "projectName": "StockIntegration.Entity",
+        "projectPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\StockIntegration.Entity.csproj",
+        "packagesPath": "C:\\Users\\hilmiye.adabasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilmiye.adabasi\\source\\repos\\StockIntegration\\StockIntegration.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hilmiye.adabasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://package.medyasoftdigital.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

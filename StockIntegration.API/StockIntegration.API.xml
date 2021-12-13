@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StockIntegration.API</name>
+    </assembly>
+    <members>
+        <member name="M:StockIntegration.API.Controllers.StocksController.GetStockByVariantCode(System.String)">
+            <summary>
+            İlgili varyant için stok bilgilerini verir.
+            </summary>
+            <param name="variantCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StockIntegration.API.Controllers.StocksController.GetStockByProductCode(System.String)">
+            <summary>
+            İlgili product için stok bilgilerini verir.
+            </summary>
+            <param name="productCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StockIntegration.API.Controllers.StocksController.Put(System.String,System.Int32)">
+            <summary>
+            İlgili varyantın stoğunu günceller.
+            </summary>
+            <param name="variantCode"></param>
+            <param name="quantity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StockIntegration.API.Controllers.StocksController.Post(StockIntegration.Entity.Stock)">
+            <summary>
+            İlgili varyant listesini kaydeder.
+            </summary>
+            <param name="stock"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
